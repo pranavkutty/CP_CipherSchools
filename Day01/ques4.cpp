@@ -1,5 +1,7 @@
-// Given an array of integers nums sorted in ascending order, find the starting and ending position of a given target value.
+// Find First and Last Position of Element in Sorted Array
 // https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+
+
 int binarySearchFirst(vector<int> &nums,int target,int start,int end){
     int mid;
     
